@@ -3,12 +3,12 @@ entries:
   blas-service-support:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T12:53:36.309628144Z"
+    created: "2024-11-11T12:56:12.157758958Z"
     description: A Helm chart for Kubernetes
-    digest: b6aa8c3072ec19edd3d9ca1ec24db146a361cd81908f1d36de23f38c0fa4f304
+    digest: faa2eeb7139cf4fd280946f0398053c7348073ab95827139120a2b35334fe005
     name: blas-service-support
     type: application
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-service-support/blas-service-support-3.2.0.tgz
     version: 3.2.0
-generated: "2024-11-11T12:53:36.307773368Z"
+generated: "2024-11-11T12:56:12.156577845Z"
