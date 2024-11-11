@@ -3,12 +3,12 @@ entries:
   blas-idp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T12:48:54.075771299Z"
+    created: "2024-11-11T12:52:34.056810487Z"
     description: A Helm chart for Kubernetes
-    digest: 9e5c56b910c7f27bf1ca5fc0ad186cf0595beeb01fbfa5686cb35a18f384add4
+    digest: d7bcdfc8beb83c52b0ad833ec1cb85071c24f3f18831dc420233c30758748f54
     name: blas-idp
     type: application
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-idp/blas-idp-3.3.0.tgz
     version: 3.3.0
-generated: "2024-11-11T12:48:54.074091303Z"
+generated: "2024-11-11T12:52:34.056137547Z"
