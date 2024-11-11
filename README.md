@@ -22,4 +22,3 @@ To add this repository to your Helm setup, run the following command:
 
 ```bash
 helm repo add blas-helm https://vinhdat4999.github.io/blas-helm/charts
-# blas-helm
