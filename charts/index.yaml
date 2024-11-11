@@ -3,7 +3,7 @@ entries:
   blas-idp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T14:56:45.148262583Z"
+    created: "2024-11-11T14:58:04.871871153Z"
     description: A Helm chart for Kubernetes
     digest: 4334d08a53f731d25b17c5532182ddc86bdbfcbe0d934dfad568a847de2ab41c
     name: blas-idp
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-idp-3.3.0.tgz
     version: 3.3.0
-generated: "2024-11-11T14:56:45.146456473Z"
+  blas-notification:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-11T14:58:04.872395378Z"
+    description: A Helm chart for Kubernetes
+    digest: d0a25b4a85d8787e250b31bdefb35e79889a2bafd3fc555890c27700d088f547
+    name: blas-notification
+    type: application
+    urls:
+    - https://vinhdat4999.github.io/blas-helm/charts/blas-notification-5.1.0.tgz
+    version: 5.1.0
+generated: "2024-11-11T14:58:04.871208239Z"
