@@ -3,12 +3,12 @@ entries:
   blas-banking-payment-gateway:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T12:53:59.487713333Z"
+    created: "2024-11-11T12:56:49.936878798Z"
     description: A Helm chart for Kubernetes
-    digest: 9434885194fe349b58cbb0363a306ff8f491bc26198219c8f7175b7e32985d98
+    digest: 747c7aa3046503c9b4b89a8aba7cfd48c20546606e73b5eeab8224d02d7ac593
     name: blas-banking-payment-gateway
     type: application
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-banking-payment-gateway/blas-banking-payment-gateway-2.6.0.tgz
     version: 2.6.0
-generated: "2024-11-11T12:53:59.486942485Z"
+generated: "2024-11-11T12:56:49.934834079Z"
