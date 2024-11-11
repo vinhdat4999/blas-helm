@@ -3,12 +3,12 @@ entries:
   blas-grow:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T12:52:21.563836449Z"
+    created: "2024-11-11T12:56:36.107549544Z"
     description: A Helm chart for Kubernetes
-    digest: 5cb64e43e0e8500ea63e3e67b3de9043011cc93e48c7dfa59ec0994382584f19
+    digest: 24eb9014bd86ad7bf718a544132b14db416d8fb989075a2d1f7bbc62dd07d406
     name: blas-grow
     type: application
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-grow/blas-grow-3.2.0.tgz
     version: 3.2.0
-generated: "2024-11-11T12:52:21.562232617Z"
+generated: "2024-11-11T12:56:36.106351983Z"
