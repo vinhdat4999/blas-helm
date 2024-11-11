@@ -3,12 +3,12 @@ entries:
   blas-notification:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T11:36:18.330514512Z"
+    created: "2024-11-11T12:54:16.306591152Z"
     description: A Helm chart for Kubernetes
-    digest: b91ae9d166d6f45da903af4d322df6afcec02ebb9b62aadd6cbc0e61d517aff8
+    digest: bb3a0344c19e2f51a1e8c6a63cb6bfcea66d749fdfd51ad8419a934a3672e34a
     name: blas-notification
     type: application
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-notification/blas-notification-5.1.0.tgz
     version: 5.1.0
-generated: "2024-11-11T11:36:18.328804589Z"
+generated: "2024-11-11T12:54:16.304962971Z"
