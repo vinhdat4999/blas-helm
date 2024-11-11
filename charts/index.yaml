@@ -3,7 +3,7 @@ entries:
   blas-banking-payment-gateway:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T15:05:43.640909667Z"
+    created: "2024-11-11T15:05:55.524243915Z"
     description: A Helm chart for Kubernetes
     digest: dce0ae36a260957e8b1e351cd177ff10ac67a2c3770bb3e24ea5b0dccda36fff
     name: blas-banking-payment-gateway
@@ -14,7 +14,7 @@ entries:
   blas-idp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T15:05:43.642279726Z"
+    created: "2024-11-11T15:05:55.524847833Z"
     description: A Helm chart for Kubernetes
     digest: 4334d08a53f731d25b17c5532182ddc86bdbfcbe0d934dfad568a847de2ab41c
     name: blas-idp
@@ -25,7 +25,7 @@ entries:
   blas-jet:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T15:05:43.643326225Z"
+    created: "2024-11-11T15:05:55.525296431Z"
     description: A Helm chart for Kubernetes
     digest: 7a3949485c37725664470ee002600a5f7b5a995f1d89dae61435cb9e4f2d1f13
     name: blas-jet
@@ -36,7 +36,7 @@ entries:
   blas-notification:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T15:05:43.644445642Z"
+    created: "2024-11-11T15:05:55.525833394Z"
     description: A Helm chart for Kubernetes
     digest: d0a25b4a85d8787e250b31bdefb35e79889a2bafd3fc555890c27700d088f547
     name: blas-notification
@@ -47,7 +47,7 @@ entries:
   blas-payment-gateway:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T15:05:43.645201425Z"
+    created: "2024-11-11T15:05:55.526348075Z"
     description: A Helm chart for Kubernetes
     digest: 9e190366a6648d67e027e7254f8230ccd0cefacb570d88177758567f65f56120
     name: blas-payment-gateway
@@ -55,4 +55,15 @@ entries:
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-payment-gateway-4.2.0.tgz
     version: 4.2.0
-generated: "2024-11-11T15:05:43.640168202Z"
+  blas-service-support:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-11T15:05:55.527300827Z"
+    description: A Helm chart for Kubernetes
+    digest: ef428eb1493f585dc899aaea65ea81313dc55a36a18d9615d039c62d5f6d2135
+    name: blas-service-support
+    type: application
+    urls:
+    - https://vinhdat4999.github.io/blas-helm/charts/blas-service-support-3.2.0.tgz
+    version: 3.2.0
+generated: "2024-11-11T15:05:55.522098461Z"
