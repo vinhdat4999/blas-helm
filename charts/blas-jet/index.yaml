@@ -3,12 +3,12 @@ entries:
   blas-jet:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-11T11:39:14.062051709Z"
+    created: "2024-11-11T11:41:05.709602304Z"
     description: A Helm chart for Kubernetes
-    digest: d056bce92ee13e20787b7b5cf6b5a523f095f57dff247b02a08f31519e7d7ba2
+    digest: 4d6bbd3f8f8336168498e20b5bb23afb2cbcc7385e3c48cd375614a1188598b1
     name: blas-jet
     type: application
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-jet/blas-jet-2.2.0.tgz
     version: 2.2.0
-generated: "2024-11-11T11:39:14.061423049Z"
+generated: "2024-11-11T11:41:05.708786346Z"
