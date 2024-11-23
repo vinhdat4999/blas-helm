@@ -3,7 +3,7 @@ entries:
   blas-banking-payment-gateway:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.087908672Z"
+    created: "2024-11-23T10:10:27.312370517Z"
     description: A Helm chart for Kubernetes
     digest: a20ffae7a770312d6f0285c21dc94e0d9dab9a6548b34bed21c79bbccfea2826
     name: blas-banking-payment-gateway
@@ -14,7 +14,7 @@ entries:
   blas-grow:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.090048511Z"
+    created: "2024-11-23T10:10:27.313594032Z"
     description: A Helm chart for Kubernetes
     digest: d391069faba8b12e3e9e2dc9cee1f23114003358b4ffa9a9ee81ef4415d7e924
     name: blas-grow
@@ -24,7 +24,7 @@ entries:
     version: 3.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.089078092Z"
+    created: "2024-11-23T10:10:27.312918244Z"
     description: A Helm chart for Kubernetes
     digest: 562a1603dd34a54a5b7f3cb54bbcc45b7e803579a8dfd7f658ceabfcc237adbf
     name: blas-grow
@@ -35,7 +35,7 @@ entries:
   blas-idp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.091144033Z"
+    created: "2024-11-23T10:10:27.31468597Z"
     description: A Helm chart for Kubernetes
     digest: 9d8ceb3d0c068d85bccae872ee7f4b5c14e814ca386026b037915f047bb61235
     name: blas-idp
@@ -45,7 +45,7 @@ entries:
     version: 3.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.090587881Z"
+    created: "2024-11-23T10:10:27.314116381Z"
     description: A Helm chart for Kubernetes
     digest: 79e7a514a1692cbafae2e2e978b31d055948c561811915bff65df6d8573c2d28
     name: blas-idp
@@ -56,7 +56,7 @@ entries:
   blas-jet:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.091568919Z"
+    created: "2024-11-23T10:10:27.31513922Z"
     description: A Helm chart for Kubernetes
     digest: afd604f41caed504754fe73df15c2821965b5c3954314a931a337570ec745f3d
     name: blas-jet
@@ -67,9 +67,9 @@ entries:
   blas-notification:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.092584081Z"
+    created: "2024-11-23T10:10:27.316214467Z"
     description: A Helm chart for Kubernetes
-    digest: c0110fcb84962272163f58f09b2545f0411c1d91e78e920eeab775897bba5eda
+    digest: 19a43f22cbe8a9632c3e0af3963b50351f602b4900e1f4e3b45b13e508fdb9b9
     name: blas-notification
     type: application
     urls:
@@ -77,7 +77,7 @@ entries:
     version: 5.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.092040653Z"
+    created: "2024-11-23T10:10:27.315644127Z"
     description: A Helm chart for Kubernetes
     digest: f8a630e85cc87596c70bf53287a993863ddbce74783cf7456406c9caac9bc57a
     name: blas-notification
@@ -88,7 +88,7 @@ entries:
   blas-payment-gateway:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.09310646Z"
+    created: "2024-11-23T10:10:27.316897618Z"
     description: A Helm chart for Kubernetes
     digest: 0ce8a16d7dbd561a8b243d7a07e10bca685d1b502b269f179dfc78a01eab6d74
     name: blas-payment-gateway
@@ -99,7 +99,7 @@ entries:
   blas-service-support:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.094064946Z"
+    created: "2024-11-23T10:10:27.317864251Z"
     description: A Helm chart for Kubernetes
     digest: 847daadc2de761fc9cbd348f97ca87c1b5cd5cf4e93fffb8324baf56d9317889
     name: blas-service-support
@@ -109,7 +109,7 @@ entries:
     version: 3.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-23T10:09:19.093574487Z"
+    created: "2024-11-23T10:10:27.31736244Z"
     description: A Helm chart for Kubernetes
     digest: 3f8935fbce58ac1659eaed0ec10fd792c1f055d4121fcf5213748cbc99026e01
     name: blas-service-support
@@ -117,4 +117,4 @@ entries:
     urls:
     - https://vinhdat4999.github.io/blas-helm/charts/blas-service-support-3.2.0.tgz
     version: 3.2.0
-generated: "2024-11-23T10:09:19.086042976Z"
+generated: "2024-11-23T10:10:27.310799668Z"
